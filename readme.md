@@ -1,0 +1,1 @@
+First program written in C. Used to explore the basic syntax of C, see where I can reduce reduntant code and improve logic. Mostly an explatory venture.
