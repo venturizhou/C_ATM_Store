@@ -1,1 +1,3 @@
-First program written in C. Used to explore the basic syntax of C, see where I can reduce reduntant code and improve logic. Mostly an explatory venture.
+Revenue - Calculate cost and apply discount to items when purchased in bulk.
+Paycheck - Calculate weekly paycheck, including overtime of empolyees.
+ATM - ATM machine that is able to track your balance, perform deposits and withdraws.
